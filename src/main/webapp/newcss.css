@@ -13,6 +13,11 @@ p {
     
 }
 
+.container {
+    border: 1px solid #0066cc;
+    align-self: center;
+
+}
 
 body{
     background: #fafafa;
