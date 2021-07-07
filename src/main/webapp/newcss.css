@@ -5,17 +5,17 @@ and open the template in the editor.
 */
 
 .opcao{
-        color: red;
+        color: #0066cc;
 }
 
 p {
-    color: blue;
+    color: #333;
     
 }
 
 
 body{
-    background-color: hsla(50, 33%, 25%, .75);
+    background: #fafafa;
 }
 
 
